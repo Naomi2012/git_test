@@ -1,0 +1,1 @@
+This is Naomi2012 first git project!
